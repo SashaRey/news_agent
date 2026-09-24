@@ -1,0 +1,4 @@
+Массовая утечка кода, старина лИИнус, а также релизы Jev и Opus 5.5, 2026-09-23 11:50, https://habr.com/ru/companies/haulmont/articles/1085662/?utm_campaign=1085662&utm_source=habrahabr&utm_medium=rss 
+Хотел свою систему, которую можно менять когда угодно, и сделал три десктопных AI-приложения, 2026-09-23 11:40, https://habr.com/ru/articles/1085650/?utm_campaign=1085650&utm_source=habrahabr&utm_medium=rss 
+4 лучших способа проверить юридический договор с помощью нейросети, 2026-09-23 09:55, https://habr.com/ru/companies/bothub/articles/1085276/?utm_campaign=1085276&utm_source=habrahabr&utm_medium=rss 
+Кеш кандидатов: как снизить расход железа в рекомендательной системе без потери качества, 2026-09-23 12:43, https://habr.com/ru/companies/vk/articles/1085306/?utm_campaign=1085306&utm_source=habrahabr&utm_medium=rss 
